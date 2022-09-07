@@ -16,7 +16,7 @@ h1 {
 
 .half-width {
     width: 50%;
-    padding-left: 200px;
+    padding-left: 150px;
     padding-right: 20px;
 }
 
@@ -26,4 +26,16 @@ h1 {
 
 .word-color {
     color: #FE5D26;
+}
+
+.button-link {
+    text-decoration: none;
+    background-color: #DE369D;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #F1FFC4;
+}
+
+.gap {
+    margin-top: 100px;
 }
