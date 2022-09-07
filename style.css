@@ -1,0 +1,16 @@
+body {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.flexible {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    height: 80%;
+}
