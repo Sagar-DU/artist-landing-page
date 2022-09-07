@@ -20,17 +20,16 @@ p {
 }
 .flexible {
     display: flex;
+    padding-left: 150px;
 }
 
 .half-width {
     width: 50%;
-    padding-left: 150px;
     padding-right: 20px;
 }
 
 .one-third-width {
     width: 33%;
-    padding-left: 150px;
 }
 
 .half-width img {
@@ -55,4 +54,18 @@ p {
 
 .gap {
     margin-top: 100px;
+}
+
+.box1 {
+    margin-right: 40px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-image: linear-gradient(#9CF6F6, #F9E7E7);
+}
+
+.box2 {
+    margin-right: 40px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-image: linear-gradient(#F9E7E7, #9CF6F6);
 }
