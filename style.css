@@ -10,6 +10,11 @@ h1 {
     padding-left: 15px;
 }
 
+h2 {
+    text-align: center;
+    font-size: 2.5em;
+}
+
 p {
     margin-bottom: 35px;
 }
@@ -23,8 +28,17 @@ p {
     padding-right: 20px;
 }
 
+.one-third-width {
+    width: 33%;
+    padding-left: 150px;
+}
+
 .half-width img {
     width: 80%;
+}
+
+.one-third-width img {
+    width: 29%;
 }
 
 .word-color {
