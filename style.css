@@ -6,10 +6,13 @@ body {
 h1 {
     font-family: 'Dancing Script', cursive;
     font-size: 4em;
-    border-left: 5px solid #DE369D;
+    border-left: 6px solid #390040;
     padding-left: 15px;
 }
 
+p {
+    margin-bottom: 35px;
+}
 .flexible {
     display: flex;
 }
@@ -25,15 +28,15 @@ h1 {
 }
 
 .word-color {
-    color: #FE5D26;
+    color: #9CF6F6;
 }
 
 .button-link {
     text-decoration: none;
-    background-color: #DE369D;
+    background-image: linear-gradient(#F679E5, #390040);
     padding: 10px 20px;
     border-radius: 5px;
-    color: #F1FFC4;
+    color: #F9E7E7;
 }
 
 .gap {
