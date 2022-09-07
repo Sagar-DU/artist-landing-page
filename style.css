@@ -12,5 +12,9 @@ body {
 }
 
 .half-width img {
-    height: 80%;
+    width: 60%;
+}
+
+.word-color {
+    color: #FE5D26;
 }
