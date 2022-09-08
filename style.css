@@ -19,8 +19,20 @@ h3 {
     font-size: 2em;
 }
 
+h4 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.5em;
+}
+
 p {
     margin-bottom: 35px;
+}
+
+footer {
+    text-align: center;
+    background-color: #390040;
+    color: #F9E7E7;
+    padding: 10px;
 }
 
 .flexible {
