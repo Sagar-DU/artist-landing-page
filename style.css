@@ -22,6 +22,7 @@ h3 {
 p {
     margin-bottom: 35px;
 }
+
 .flexible {
     display: flex;
     padding-left: 150px;
@@ -72,4 +73,8 @@ p {
     border-radius: 15px;
     padding: 10px 30px;
     background-image: linear-gradient(#F9E7E7, #9CF6F6);
+}
+
+#develop-limit img {
+    width: 90%;
 }
